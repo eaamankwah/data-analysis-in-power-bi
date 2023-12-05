@@ -98,4 +98,4 @@ ___
 ___
 
 # Certificate
-![Career Track Certificate](bpi_data_analyst_certificate.pdf)
+[Career Track Certificate](bpi_data_analyst_certificate.pdf)
