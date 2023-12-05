@@ -93,7 +93,7 @@ ___
 | 15          | [Reports Design in Power BI ](15-Reports-Design-in-Power-BI)                        |
 | 16          | [Data Connection in Power BI ](16-Data-Connection-in-BI)                            |
 | 17          | [Deploying and Maintening Assets in Power BI ](17-Deploying-and-Maintaining-Assets-in-Power-BI)              |
-| 18          | [Statement of Accomplishment](18-Statement-of-Accomplishment)                       |
+| 18          | [Statement of Accomplishment](bpi_data_analyst_certificate.pdf)                       |
 
 ___
 
