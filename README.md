@@ -1,101 +1,123 @@
-# data-analysis-in-power-bi
+# Power BI Data Analytics Portfolio
 
-This repository is for showcasing skills I acquired from hands-on exercises in DataCamps's [DataCamp Data Analysis in Power BI](https://www.datacamp.com/tracks/data-analyst-in-power-bi) Career Truck
+## Overview
 
-The Career track consisted of 18 courses as listed below:
+This repository showcases a comprehensive collection of Power BI projects and skills acquired through DataCamp's **Data Analyst in Power BI Career Track**. The portfolio demonstrates proficiency in business intelligence, data visualization, advanced analytics, and enterprise-level reporting solutions using Microsoft Power BI.
 
-**Introduction to Power BI**
-Master the Power BI basics and learn to use the data visualization software to
-build impactful reports.
+## 🎯 Career Track Certification
 
-**Introduction to DAX in Power BI**
-Enhance your Power BI knowledge, by learning the fundamentals of Data
-Analysis Expressions (DAX) such as calculated columns, tables, and
-measures.
+**DataCamp Data Analyst in Power BI Career Track** - 18 comprehensive courses covering the complete Power BI ecosystem from fundamentals to advanced enterprise deployment.
 
-**Data Visualization in Power BI**
-Power BI is a powerful data visualization tool that can be used in reports and
-dashboards.
+[View Certificate](bpi_data_analyst_certificate.pdf) 📜
 
-**Case Study: Analyzing Customer Churn in Power BI**
-You will investigate a dataset from a fictitious company called Databel in Power
-BI, and need to figure out why customers are churning.
+## 🛠️ Core Competencies
 
-**Data Preparation in Power BI**
-In this interactive Power BI course, you’ll learn how to use Power Query Editor
-to transform and shape your data to be ready for analysis.
+### Data Analysis & Modeling
+* **Data Preparation & Transformation**: Power Query Editor, ETL processes
+* **Advanced Data Modeling**: Star schema, relationships, data warehousing concepts
+* **Statistical Analysis**: Exploratory Data Analysis (EDA), trend analysis, time series
 
-**Data Modeling in Power BI**
-Learn the key concepts of data modeling on Power BI.
+### Power BI Development
+* **DAX Programming**: Calculated columns, measures, complex functions
+* **Visualization Design**: Interactive dashboards, storytelling through data
+* **Report Development**: Progressive disclosure, user experience optimization
 
-**Intermediate Data Modeling in Power BI**
-Master data modeling in Power BI.
+### Business Intelligence
+* **Customer Analytics**: Churn analysis, behavioral insights
+* **HR Analytics**: Workforce metrics, performance tracking
+* **Enterprise Deployment**: Power BI Service, workspace management, asset maintenance
 
-**Case Study: HR Analytics in Power BI**
-Apply your skills to import, analyze and visualize Human Resources (HR) data
-using Power BI.
+## 📁 Project Structure
 
-**DAX Functions in Power BI**
-Data Analysis Expressions (DAX) allow you to take your Power BI skills to the
-next level by writing custom functions.
+### Foundation Courses (01-03)
+| Course | Focus Area | Key Skills |
+|--------|------------|------------|
+| [01 - Introduction to Power BI](/01-Introduction-to-Power-BI/) | Platform Fundamentals | Interface navigation, basic visualizations, report creation |
+| [02 - Introduction to DAX](/02-Introduction-to-DAX-in-Power-BI) | Formula Language | Calculated columns, basic measures, DAX syntax |
+| [03 - Data Visualization](/03-Data-Visualization-in-Power-BI/) | Visual Design | Chart types, formatting, interactive elements |
 
-**Intermediate DAX in Power BI**
-Discover a wide range of DAX calculations and learn how to use them in
-Microsoft Power BI.
+### Applied Analytics (04-09)
+| Course | Focus Area | Key Skills |
+|--------|------------|------------|
+| [04 - Customer Churn Analysis](/04-case_study-analyzing-Customer-Church-In-Power-BI/) | Case Study | Business problem solving, customer lifecycle analysis |
+| [05 - Data Preparation](/05-Data-Preparation-in-Power-BI/) | ETL Processes | Power Query transformations, data cleaning |
+| [06 - Data Transformation](/06-Data-Transformation-in-Power-BI/) | Advanced ETL | Complex data shaping, merge operations |
+| [07 - Data Modeling](/07-Data-Modeling-in-Power-BI) | Schema Design | Relationships, cardinality, model optimization |
+| [08 - Intermediate Data Modeling](/08-Intermediate-Data-Modeling-in-Power-BI) | Advanced Modeling | Complex relationships, performance tuning |
+| [09 - HR Analytics Case Study](/09-Case-Study-HR-Analytics-in-Power-BI) | Applied Analytics | Workforce insights, KPI development |
 
-**Exploratory Data Analysis in Power BI**
-Enhance your reports with Power BI's Exploratory Data Analysis (EDA). Learn
-what EDA is for Power BI and how it can help you extract insights from your
-data.
+### Advanced Development (10-13)
+| Course | Focus Area | Key Skills |
+|--------|------------|------------|
+| [10 - DAX Functions](/10-DAX-Functions-in-Power-BI) | Advanced Formulas | Time intelligence, statistical functions |
+| [11 - Intermediate DAX](/11-Intermediate-DAX-Functions-in-Power-BI) | Complex Calculations | Context manipulation, advanced patterns |
+| [12 - Exploratory Data Analysis](/12-Exploratory-Data-Analysis-in-Power-BI) | Statistical Methods | Data profiling, outlier detection, correlation analysis |
+| [13 - Trend Analysis](/13-Trend-Analysis-in-Power-BI) | Time Series Analytics | Decomposition trees, key influencers, forecasting |
 
-**Trend Analysis in Power BI**
-Enhance your reports with trend analysis techniques such as time series,
-decomposition trees, and key influencers.
+### Professional Reporting (14-17)
+| Course | Focus Area | Key Skills |
+|--------|------------|------------|
+| [14 - Reports in Power BI](/14-Reports-in-Power-BI) | Report Architecture | Data storytelling, narrative techniques |
+| [15 - Report Design](/15-Reports-Design-in-Power-BI) | UX/UI Design | Visual hierarchy, progressive disclosure, accessibility |
+| [16 - Data Connections](/16-Data-Connection-in-BI) | Data Integration | Multiple data sources, refresh strategies |
+| [17 - Deployment & Maintenance](/17-Deploying-and-Maintaining-Assets-in-Power-BI) | Enterprise Management | Power BI Service, workspaces, governance |
 
-**Reports in Power BI**
-Take your Power BI visualizations up a level with the skills you already have.
-Learn alternative data storytelling techniques to simply building dashboards.
+## 🚀 Key Projects & Case Studies
 
-**Report Design in Power BI**
-Continue your data visualization journey where you'll learn practical techniques
-for incorporating DAX measures and progressive disclosure in your reports.
+### Customer Churn Analysis (Databel)
+* **Objective**: Investigate customer churn patterns for a telecommunications company
+* **Techniques**: Cohort analysis, churn prediction modeling, customer segmentation
+* **Deliverables**: Interactive dashboard with drill-down capabilities and actionable insights
 
-**Data Connections in Power BI**
-Discover the different ways you can enhance your Power BI data importing
-skills.
+### HR Analytics Dashboard
+* **Objective**: Workforce performance analysis and strategic HR insights
+* **Techniques**: Employee lifecycle analysis, performance metrics, predictive analytics
+* **Deliverables**: Executive-level HR dashboard with KPI tracking and trend analysis
 
-**Deploying and Maintaining Assets in Power BI**
-Learn how to deploy and maintain assets in Power BI. You’ll get to grips with
-the Power BI Service interface and key elements in it like workspaces.
+## 🔧 Technical Skills Demonstrated
 
-** Statement of Accomplishment **
+### Power BI Ecosystem
+* **Power BI Desktop**: Report authoring, data modeling, visualization design
+* **Power BI Service**: Publishing, sharing, workspace collaboration
+* **Power Query Editor**: Data transformation, M language scripting
+* **DAX Language**: Advanced calculations, time intelligence, statistical functions
 
-___
+### Data Integration & Management
+* **Multiple Data Sources**: Excel, CSV, databases, web services, APIs
+* **Data Transformation**: ETL processes, data cleaning, normalization
+* **Performance Optimization**: Query folding, model size reduction, refresh strategies
 
-# Career Track Courses
+### Advanced Analytics
+* **Statistical Analysis**: Descriptive statistics, correlation analysis, trend identification
+* **Business Intelligence**: KPI development, metric calculation, benchmark analysis
+* **Predictive Insights**: Forecasting, what-if scenarios, key influencer analysis
 
-| Course No.  | Project |
-| ---		  | ----    |
-| 01		  | [Introduction to Power BI](/01-Introduction-to-Power-BI/) 							|
-| 02 		  | [Introduction to DAX in Power BI](02-Introduction-to-DAX-in-Power-BI) 				|
-| 03 		  | [Data Visualization in Power BI](/03-Data-Visualization-in-Power-BI/)				|
-| 04 		  | [Case Study: Analyzing Customer Church in Power BI](/04-case_study-analyzing-Customer-Church-In-Power-BI/)  |
-| 05 		  | [Data Preparation in Power BI](/05-Data-Preparation-in-Power-BI/) 					|
-| 06 		  | [Data Transformation in Power BI](/06-Data-Transformation-in-Power-BI/)             |
-| 07          | [Data Modeling in Power BI ](07-Data-Modeling-in-Power-BI)                          |
-| 08          | [Intermediate Data Modelling in Power BI ](08-Intermediate-Data-Modeling-in-Power-BI)                        |	
-| 09          | [Case Study: HR Analytics in Power BI ](09-Case-Study-HR-Analytics-in-Power-BI)     |
-| 10          | [Dax Function in Power BI ](10-DAX-Functions-in-Power-BI)                           |
-| 11          | [Intermediate Dax Function in Power BI ](11-Intermediate-DAX-Functions-in-Power-BI) |
-| 12          | [Exploratory Data Analysis in Power BI ](12-Exploratory-Data-Analysis-in-Power-BI)  |
-| 13          | [Trend Analysis in Power BI ](13-Trend-Analysis-in-Power-BI)                        |
-| 14          | [Reports in Power BI ](14-Reports-in-Power-BI)                                      |
-| 15          | [Reports Design in Power BI ](15-Reports-Design-in-Power-BI)                        |
-| 16          | [Data Connection in Power BI ](16-Data-Connection-in-BI)                            |
-| 17          | [Deploying and Maintening Assets in Power BI ](17-Deploying-and-Maintaining-Assets-in-Power-BI)              |
-| 18          | [Statement of Accomplishment](bpi_data_analyst_certificate.pdf)                       |
+## 📊 Portfolio Highlights
 
-___
+* **18 Completed Projects**: Comprehensive coverage of Power BI capabilities
+* **Real-World Case Studies**: Applied learning with business-relevant scenarios  
+* **Progressive Skill Development**: From fundamentals to enterprise-level solutions
+* **Industry Best Practices**: Following Microsoft Power BI guidelines and standards
+* **Certification Validation**: DataCamp verified completion and competency
+
+## 🎯 Business Value Delivered
+
+- **Data-Driven Decision Making**: Transform raw data into actionable business insights
+- **Interactive Reporting**: Self-service analytics for stakeholders across all levels
+- **Process Optimization**: Automated reporting solutions reducing manual effort
+- **Strategic Analytics**: Advanced analytics supporting business strategy and planning
+
+## 🌟 Next Steps
+
+This portfolio represents a solid foundation in Power BI analytics. Future development areas include:
+* Advanced Machine Learning integration with Power BI
+* Custom visuals development
+* Power BI Premium features and capacity management
+* Integration with Azure Analytics services
+
+---
+
+*This repository demonstrates proficiency in modern business intelligence tools, data visualization best practices, and the ability to translate business requirements into technical solutions using Microsoft Power BI.*
 
 # Certificate
 [Career Track Certificate](bpi_data_analyst_certificate.pdf)
